@@ -1,6 +1,6 @@
 # Twitter_WeRateDog_Project
 ## Introduction
-The dataset which will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. I will use Python (and its libraries) to analyze and vusualize the dataset through jupyter notebook.
+The dataset which will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. I will use Python (and its libraries) to analyze and visualize the dataset through jupyter notebook.
 
 <img src="https://video.udacity-data.com/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg" alt="dog">
 
